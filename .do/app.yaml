@@ -1,5 +1,5 @@
-name: seahorse-app
-region: nyc  
+name: starfish-app
+region: london  
 workers:  
   - name: worker  
     environment_slug: python  
